@@ -33,6 +33,7 @@ public class ActivityApi extends AppCompatActivity implements View.OnClickListen
     JZVideoPlayer.JZAutoFullscreenListener mSensorEventListener;
     SensorManager mSensorManager;
 
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
